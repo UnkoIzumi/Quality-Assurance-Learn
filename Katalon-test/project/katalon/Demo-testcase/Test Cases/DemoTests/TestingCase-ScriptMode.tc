@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>this is testing script mode</description>
+   <name>TestingCase-ScriptMode</name>
+   <tag>@fahmiar</tag>
+   <comment></comment>
+   <testCaseGuid>b9a5d675-4385-4a49-9836-eb81ec97a580</testCaseGuid>
+</TestCaseEntity>

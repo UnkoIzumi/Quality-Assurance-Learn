@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>RecordMode testing case login and booking</description>
+   <name>TestingCase-RecordMode</name>
+   <tag>@fahmiar</tag>
+   <comment></comment>
+   <testCaseGuid>b9911d87-2c91-474d-8504-5b75cc39ad95</testCaseGuid>
+</TestCaseEntity>

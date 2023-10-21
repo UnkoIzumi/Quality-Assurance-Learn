@@ -1,0 +1,36 @@
+line 1 column 95 - Warning: unknown attribute "crossorigin"
+line 1 column 95 - Warning: unknown attribute "integrity"
+line 1 column 95 - Warning: <script> lacks "type" attribute
+line 1 column 256 - Warning: unknown attribute "crossorigin"
+line 1 column 256 - Warning: unknown attribute "integrity"
+line 1 column 256 - Warning: <script> lacks "type" attribute
+line 1 column 424 - Warning: unknown attribute "crossorigin"
+line 1 column 424 - Warning: unknown attribute "integrity"
+line 1 column 424 - Warning: <link> lacks "type" attribute
+line 1 column 635 - Warning: unknown attribute "async"
+line 1 column 635 - Warning: <script> lacks "type" attribute
+line 1 column 932 - Warning: unknown attribute "crossorigin"
+line 1 column 932 - Warning: unknown attribute "async"
+line 1 column 932 - Warning: <script> lacks "type" attribute
+line 1 column 1,357 - Warning: unknown attribute "async"
+line 1 column 1,357 - Warning: <script> lacks "type" attribute
+line 1 column 1,448 - Warning: <script> lacks "type" attribute
+line 1 column 1,518 - Warning: <script> lacks "type" attribute
+line 1 column 2,000 - Warning: Named Entity &apos; only defined in XML/XHTML
+line 1 column 2,065 - Warning: Warning: unescaped & or unknown entity "&apos"
+line 1 column 2,065 - Warning: Named Entity &apos; only defined in XML/XHTML
+line 1 column 2,092 - Warning: Warning: unescaped & or unknown entity "&apos"
+line 1 column 2,290 - Warning: <script> lacks "type" attribute
+line 1 column 2,399 - Warning: <script> lacks "type" attribute
+line 1 column 2,717 - Warning: <link> isn't allowed in <body> elements
+line 1 column 2,763 - Warning: <link> lacks "type" attribute
+line 1 column 2,763 - Warning: <link> isn't allowed in <body> elements
+line 1 column 2,799 - Warning: </head> isn't allowed in <body> elements
+line 1 column 2,810 - Warning: <body> isn't allowed in <body> elements
+line 1 column 3,070 - Warning: Warning: unescaped & or unknown entity "&render"
+line 1 column 3,070 - Warning: unknown attribute "async"
+line 1 column 3,070 - Warning: <script> lacks "type" attribute
+line 1 column 3,123 - Warning: <script> lacks "type" attribute
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+33 warnings, no errors were found!

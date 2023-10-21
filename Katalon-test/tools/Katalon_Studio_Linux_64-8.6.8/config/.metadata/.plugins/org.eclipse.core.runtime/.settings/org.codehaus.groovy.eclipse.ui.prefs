@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+groovy.debug.force_options=false
+groovy.editor.highlight.annotation.color=100,100,100
+groovy.editor.highlight.bracket.color=249,250,244
+groovy.editor.highlight.default.color=217,232,247
+groovy.editor.highlight.gjdk.color=204,108,29
+groovy.editor.highlight.groovykeywords.color=204,108,29
+groovy.editor.highlight.operator.color=230,230,250
+groovy.editor.highlight.strings.color=23,198,163

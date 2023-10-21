@@ -1,0 +1,121 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.integration.analytics.handledtoolitem.katalonTestOps'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: DIA_LBL_SELECT_TEST_DATA in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: HAND_WARN_TS_REQUIRES_PLUGIN_DYNAMIC_EXECUTION_TO_OPEN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: DIA_INFO_KSE_COMBINE_MULTI_DATASOURCE in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_SHELL_DATA_ITERATION in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_LBL_TO_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_START_ROW_BIGGER_THAN_END_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: EDI_TITLE_TEST_CASE_BROWSER in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_CHOOSE_DATA_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_TABLE_EMPTY_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_WARN_MSG_EMPTY_COLUMN_NAME in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: PA_LBL_TOOLTIP_RETRY_IMMEDIATELY in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+WebView Server has been started on port 36399
+Warning: NLS missing message: PA_URL_SUPPORT_PORTAL in: com.kms.katalon.constants.messages
+Warning: NLS missing message: URL_KATALON_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: About_LBL_EDITION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+Start checking and mark activated for GUI mode
+Start getting machine ID on Linux
+End getting machine ID on Linux 51eab6545293417d9e54966717c33632
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername miyaizu
+End appending additional signatures 51eab6545293417d9e54966717c33632__miyaizu
+End checking and mark activated for GUI mode
+Your current licensed session is valid until: September 22, 2023 11:52
+Start checking license task
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+Warning: NLS unused message: DIA_LBL_LIST_OF_COL_NAMES in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Warning: NLS unused message: DIA_LBL_SELECT_A_COL in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Latest plugins responses: []
+Katalon version: 8.6.8
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.6.8&appType=KSE&licenseType=TRIAL
+Warning: NLS missing message: ConsoleMain_MSG_DEVOPS_LICENSE_COMPATIBILITY in: com.kms.katalon.execution.constants.executionMessages
+Warning: NLS missing message: ConsoleMain_MSG_NON_DEVOPS_LICENSE_COMPATIBLITY in: com.kms.katalon.execution.constants.executionMessages
+Warning: NLS missing message: BTN_UPLOAD in: com.kms.katalon.composer.integration.analytics.constants.composerIntegrationAnalyticsMessages
+Warning: NLS missing message: INSTRUCTION_FOR_CROSS_BROWSER_TESTING in: com.kms.katalon.composer.integration.analytics.constants.composerIntegrationAnalyticsMessages
+Warning: NLS unused message: PREF_WARN_KSE_SQL_SERVER in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+Warning: NLS unused message: PREF_WARN_KSE_ORACLE_SQL in: com.kms.katalon.composer.testdata.constants.composerTestdataMessages
+Launcher status after execution process completed: Running
+Start writing execution.uuid file to folder: /home/miyaizu/Documents/Katalon-test/project/katalon/Demo-testcase/Reports/20230921_122331/TestingCase-Suite/20230921_122331
+Start generating JUnit report folder at: /home/miyaizu/Documents/Katalon-test/project/katalon/Demo-testcase/Reports/20230921_122331/TestingCase-Suite/20230921_122331...
+JUnit report were generated at folder: /home/miyaizu/Documents/Katalon-test/project/katalon/Demo-testcase/Reports/20230921_122331/TestingCase-Suite/20230921_122331
+Katalon TestOps: Start uploading report to Katalon TestOps server: https://testops.katalon.io
+Test suite Test Suites/TestingCase-Suite - Chrome - 20230921_123324 is ready to start at 12:33:33.058
+Running: Test Suites/TestingCase-Suite - Chrome - 20230921_123324
+Test suite Test Suites/TestingCase-Suite - Firefox - 20230921_123326 is ready to start at 12:33:38.093
+Running: Test Suites/TestingCase-Suite - Firefox - 20230921_123326
+Launcher status after execution process completed: Running
+Start writing execution.uuid file to folder: /home/miyaizu/Documents/Katalon-test/project/katalon/Demo-testcase/Reports/20230921_123323/TestingCase-Suite/20230921_123324
+Start generating JUnit report folder at: /home/miyaizu/Documents/Katalon-test/project/katalon/Demo-testcase/Reports/20230921_123323/TestingCase-Suite/20230921_123324...
+JUnit report were generated at folder: /home/miyaizu/Documents/Katalon-test/project/katalon/Demo-testcase/Reports/20230921_123323/TestingCase-Suite/20230921_123324
+Launcher status after execution process completed: Running
+Start writing execution.uuid file to folder: /home/miyaizu/Documents/Katalon-test/project/katalon/Demo-testcase/Reports/20230921_123323/TestingCase-Suite/20230921_123326
+Start generating JUnit report folder at: /home/miyaizu/Documents/Katalon-test/project/katalon/Demo-testcase/Reports/20230921_123323/TestingCase-Suite/20230921_123326...
+JUnit report were generated at folder: /home/miyaizu/Documents/Katalon-test/project/katalon/Demo-testcase/Reports/20230921_123323/TestingCase-Suite/20230921_123326
+Preparing integration report for Katalon TestOps
+Done preparing integration report for Katalon TestOps
+Preparing integration report for Azure
+Done preparing integration report for Azure
+Preparing integration report for qTest
+Done preparing integration report for qTest
+Uploading report to Katalon TestOps...
+Katalon TestOps: Start uploading report to Katalon TestOps server: https://testops.katalon.io
+Report has been sent to Katalon TestOps
+Uploading report to Azure...
+Report has been sent to Azure
+Uploading report to qTest...
+Report has been sent to qTest
+All launchers terminated
+Test suite Test Suites/TestingCase-Suite - Chrome - 20230921_124516 is ready to start at 12:45:26.449
+Running: Test Suites/TestingCase-Suite - Chrome - 20230921_124516
+Test suite Test Suites/TestingCase-Suite - Firefox - 20230921_124518 is ready to start at 12:45:32.968
+Running: Test Suites/TestingCase-Suite - Firefox - 20230921_124518
+Launcher status after execution process completed: Terminated
+Launcher status after execution process completed: Terminated
+All launchers terminated
+All launchers terminated
+Test suite Test Suites/TestingCase-Suite - Chrome - 20230921_130156 is ready to start at 13:02:05.303
+Running: Test Suites/TestingCase-Suite - Chrome - 20230921_130156
+Test suite Test Suites/TestingCase-Suite - Firefox - 20230921_130158 is ready to start at 13:02:10.142
+Running: Test Suites/TestingCase-Suite - Firefox - 20230921_130158
+Launcher status after execution process completed: Terminated
+Launcher status after execution process completed: Terminated
+All launchers terminated
+Test suite Test Suites/TestingCase-Suite - Firefox - 20230921_132200 is ready to start at 13:22:16.194
+Running: Test Suites/TestingCase-Suite - Firefox - 20230921_132200
+Launcher status after execution process completed: Terminated
+All launchers terminated
+Test suite Test Suites/TestingCase-Suite - Firefox - 20230921_132832 is ready to start at 13:28:39.285
+Running: Test Suites/TestingCase-Suite - Firefox - 20230921_132832
+Launcher status after execution process completed: Terminated
+All launchers terminated
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@d6d5642[object: org.codehaus.groovy.ast.expr.VariableExpression@69061057[variable: WebIO] property: org.codehaus.groovy.ast.expr.ConstantExpression@684609ee[WebUI]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@14d509d9[object: org.codehaus.groovy.ast.expr.ClassExpression@634ac5f6[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@7fc38f65[WebUI]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@5a0138e6[]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.PropertyExpression@6745b847[object: org.codehaus.groovy.ast.expr.ClassExpression@255e39e4[type: com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords] property: org.codehaus.groovy.ast.expr.ConstantExpression@eeb44dd[WebUI]]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@1ef4e030[Object Repository/Page_OrangeHRM/input_Username_username]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2b3e4f18[https://opensource-demo.orangehrmlive.com]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2b3e4f18[https://opensource-demo.orangehrmlive.com]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@2b3e4f18[https://opensource-demo.orangehrmlive.com]
+Test suite Test Suites/TestingCase-Suite - Firefox - 20230921_133925 is ready to start at 13:39:30.147
+Running: Test Suites/TestingCase-Suite - Firefox - 20230921_133925
+Launcher status after execution process completed: Terminated
